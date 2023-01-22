@@ -8,12 +8,14 @@
 
 <br/>
 
+<br/>
 ## <a name='layout'></a> 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
 - [Habits - Figma](https://www.figma.com/community/file/1195326661124171197)
 Lembrando que você precisa ter uma conta para acessá-lo [Figma](http://figma.com/).
 <br/>
+
 ## <a name='tecnologias'></a> 🛠️ Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
@@ -27,11 +29,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [NativeWind](https://www.nativewind.dev/)
 <br/>
+
+<br/>
 ## <a name='pre-requisitos'></a> 💻 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 <br/>
+
 ## 🎲 Rodando o Back End (servidor)
 <br/>
 ```bash
@@ -51,6 +56,7 @@ $ yarn dev
 # Muito bem, o projeto vai ser iniciado em.
 http://localhost:3333
 ```
+<br/>
 ## 🖥️ Rodando o Front-End (web)
 _Obs.: Antes de continuar, certifique-se de ter a API em execução_
 ```bash
@@ -67,6 +73,9 @@ $ yarn dev
 # Muito bem, o projeto vai ser iniciado em.
 http://localhost:5173
 ```
+<br/>
+
+<br/>
 ## 📱 Mobile
 _Obs.: Antes de continuar, certifique-se de ter a API em execução_
 ```bash
