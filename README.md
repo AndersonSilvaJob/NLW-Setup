@@ -57,7 +57,9 @@ $ yarn dev
 http://localhost:3333
 ```
 <br/>
+
 ## 🖥️ Rodando o Front-End (web)
+<br/>
 _Obs.: Antes de continuar, certifique-se de ter a API em execução_
 ```bash
 # A partir da pasta raiz do projeto, vá para a pasta web
@@ -75,8 +77,9 @@ http://localhost:5173
 ```
 <br/>
 
-<br/>
+
 ## 📱 Mobile
+<br/>
 _Obs.: Antes de continuar, certifique-se de ter a API em execução_
 ```bash
 # A partir da pasta raiz do projeto, vá para a pasta mobile
