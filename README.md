@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src=".github/logo-nlw-setup.svg" width="100%">
+</h1>
+
+<br/>
+
+<img src=".github/Habits.png" width="100%">
+
 <br/>
 
 ## 🚀 Próximo nível
